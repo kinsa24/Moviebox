@@ -3,7 +3,7 @@
 A Netflix-inspired web app for movie discovery and watchlist management, built with **React + Tailwind CSS** using **Bolt.new**. Deployed on **Netlify**.
 
 ## Live Demo
-[https://remarkable-starship-e2d83e.netlify.app/]([https://remarkable-starship-e2d83e.netlify.app/](https://moviebox-app.netlify.app/))
+https://moviebox-app.netlify.app/
 
 ## Features
 - Search movies via TMDB API
